@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rjalali938 (Reza Jalali)
-- 👀 I’m interested in Product Managment, UX design and Frontend Development
-- 🌱 I’m currently learning JavaScript - UI/UX - Reacrt - NextJS
-- 💞️ I’m looking to collaborate on UX design & React Front-end development Projects
+- 👀 Ecommerce Product Manager
+- 🌱 I’m currently learning AI - PowerBI - Checkout
+- 💞️ Interested in 3rd Gen E-Commerce, AI Personalization, Live Shopping, and One-Click Checkout
 - 📫 How to reach me: Rjalali938@gmail.com
 
 <!---
